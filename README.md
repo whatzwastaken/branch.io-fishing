@@ -26,8 +26,8 @@ A powerful and intuitive dashboard panel for managing Branch.io integrations and
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/whatzwastaken/branch.io-fishing.git
+   cd branch.io-fishing
    ```
 
 2. Run the `setup.sh` script to set up the environment:
