@@ -1,0 +1,6 @@
+Flask
+playwright
+requests
+logging
+pystyle
+Flask-CloudflareRemote
