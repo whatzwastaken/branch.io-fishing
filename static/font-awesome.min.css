@@ -1,0 +1,9 @@
+@font-face { font-family: FontAwesome; src: url("") format("woff2"), url("") format("woff"), url("") format("truetype"); font-weight: normal; font-style: normal; }
+@keyframes fa-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+@keyframes fa-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
